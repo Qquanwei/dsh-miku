@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Miku plugins",
+    "zh": "初音未来插件"
+  },
+  "description": {
+    "en": "Hatsune Miku decorations for DeepSeek Harness.",
+    "zh": "适用于 DeepSeek Harness 的初音未来装饰插件。"
+  },
+  "metadata": {
+    "categories": {},
+    "labels": {},
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "dsh-miku",
+      "title": {
+        "en": "Miku sidebar background",
+        "zh": "初音未来侧边栏背景"
+      },
+      "description": {
+        "en": "Project DIVA Future Tone Miku module cards as the sidebar background: per-session binding or a fixed image (168 cards, paginated picker), with an opacity slider. Artwork (c) SEGA / Crypton Future Media - personal use only.",
+        "zh": "将《初音未来 Project DIVA Future Tone》的初音未来模组卡片作为侧边栏背景：按会话绑定或固定图片（168 张卡片、分页选择），带不透明度滑块。图片版权 (c) SEGA / Crypton Future Media，仅限个人使用。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDM2IDM2Ij4KICA8cGF0aCBkPSJNMTEgMTAgQyA2IDEyLCA0IDIwLCA1LjUgMjcgQyA2IDI5LCA4LjUgMjguNSwgOCAyNyBDIDcgMjIsIDcuNSAxNiwgOS41IDEzLjUgWiIgZmlsbD0iIzM5YzViYiIvPgogIDxwYXRoIGQ9Ik0yNSAxMCBDIDMwIDEyLCAzMiAyMCwgMzAuNSAyNyBDIDMwIDI5LCAyNy41IDI4LjUsIDI4IDI3IEMgMjkgMjIsIDI4LjUgMTYsIDI2LjUgMTMuNSBaIiBmaWxsPSIjMzljNWJiIi8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxMiIgcj0iNyIgZmlsbD0iIzM5YzViYiIvPgogIDxwYXRoIGQ9Ik0xMi41IDkgUTE4IDYgMjMuNSA5IiBmaWxsPSJub25lIiBzdHJva2U9IiMyYjJiMmIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHJlY3QgeD0iMTAuNSIgeT0iMTAiIHdpZHRoPSIyLjIiIGhlaWdodD0iNSIgcng9IjEuMSIgZmlsbD0iIzJiMmIyYiIvPgogIDxyZWN0IHg9IjIzLjMiIHk9IjEwIiB3aWR0aD0iMi4yIiBoZWlnaHQ9IjUiIHJ4PSIxLjEiIGZpbGw9IiMyYjJiMmIiLz4KICA8cmVjdCB4PSIxNSIgeT0iNy42IiB3aWR0aD0iMi40IiBoZWlnaHQ9IjEuNCIgcng9IjAuNyIgZmlsbD0iI2UwNDYzYyIvPgogIDxyZWN0IHg9IjE4LjYiIHk9IjcuNiIgd2lkdGg9IjIuNCIgaGVpZ2h0PSIxLjQiIHJ4PSIwLjciIGZpbGw9IiNlMDQ2M2MiLz4KPC9zdmc+Cg==",
+      "author": "Qquanwei",
+      "homepage": "https://github.com/Qquanwei/dsh-miku",
+      "repository": {
+        "url": "https://github.com/Qquanwei/dsh-miku"
+      },
+      "metadata": {
+        "keywords": [
+          "miku",
+          "hatsune-miku",
+          "sidebar",
+          "background",
+          "decoration"
+        ],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1795079677,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Qquanwei/dsh-miku",
+            "commit": "f11dcc36d6e68d31fd4eeb2c6a0d568baea9bdd0"
+          },
+          "engines": {}
+        }
+      ]
+    }
+  ]
+}
