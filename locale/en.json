@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Miku sidebar background",
+    "description": "Shows the official Hatsune Miku module artwork from Project DIVA Future Tone in the left sidebar background. Configure it in Settings → Plugins → Miku background: use a fixed image (pick from all 168, paginated) or auto-switch by session. The artwork is © SEGA / Crypton Future Media — keep this bundle for personal use only."
+  }
+}
